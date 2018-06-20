@@ -1,8 +1,8 @@
 ingredients = [
-"bread"=["rye", "sourdough", "baguette"],
-"meat"=["ham", "salami", "turkey"],
-"cheese"=["swiss", "munster", "cheddar"],
-"sauce"=["mayo", "mustard", "tabasco"]
+"bread"=> ["rye", "sourdough", "baguette"],
+"meat"=> ["ham", "salami", "turkey"],
+"cheese"=> ["swiss", "munster", "cheddar"],
+"sauce"=> ["mayo", "mustard", "tabasco"]
 ]
 
 def sandwich_request(ingredients, order) 
