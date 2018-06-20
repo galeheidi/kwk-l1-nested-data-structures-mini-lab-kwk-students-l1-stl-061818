@@ -5,11 +5,8 @@ ingredients = [
 "sauce"=> ["mayo", "mustard", "tabasco"]
 ]
 
-def sandwich_request(ingredients, order) 
-  # your code here!
-end
+def sandwich_request(ingredients, order)
 
-# example city_info hash
 cities = {
   :new_york => { 
     :mayor => "Bill DeBlasio",
@@ -34,5 +31,4 @@ cities = {
 }
 
 def city_populations(cities)
-  # your code here!
 end
