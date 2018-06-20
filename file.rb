@@ -1,7 +1,7 @@
 ingredients = [
-  'bread"=["rye", "sourdough", "baguette"],
-  =["ham", "salami", "turkey"],
-  ["swiss", "munster", "cheddar"],
+"bread"=["rye", "sourdough", "baguette"],
+"meat" =["ham", "salami", "turkey"],
+  =["swiss", "munster", "cheddar"],
   ["mayo", "mustard", "tabasco"]
 ]
 puts 
